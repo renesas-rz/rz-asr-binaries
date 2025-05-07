@@ -7,6 +7,22 @@ certification on the following RZ platfoms:
 - RZ/G2LC
 - RZ/G2UL
 - RZ/V2L
+## Licenses 
+| Binary file |License folder|License files|
+|--|--|--|
+|bl2_bp-smarc<-platform><_pmic>.srec|trusted-firmware-a|generic_MIT, LICENSE, license.rst|
+|bl2_bp-smarc<-platform><_pmic>.bin|trusted-firmware-a|generic_MIT, LICENSE, license.rst|
+|fip-smarc<-platform><_pmic>.srec|u-boot|Exceptions,gpl-2.0.txt,README|
+|fip-smarc<-platform><_pmic>.bin|u-boot|Exceptions,gpl-2.0.txt,README|
+|capsule<-platform><_pmic>.bin|u-boot|Exceptions,gpl-2.0.txt,README|
+|Flash_Writer_SCIF<_PLATFORM>_SMARC<_PMIC>_DDR4_2GB_1PCS.mot|u-flash-writer|LICENSE.md|
+## Source code
+| Source Code |Git repository|
+|--|--|
+|u-boot|https://github.com/renesas-rz/renesas-u-boot-cip/|
+|trusted-firmware-a|https://github.com/renesas-rz/rzg_trusted-firmware-a|
+|Yocto build |https://github.com/renesas-rz/meta-renesas|
+
 ## ARM SystemReady Certification
 Please refer to the ARM website to find the latest list of certified Renesas RZ platform certificates.
 The details can be found at the following link:
