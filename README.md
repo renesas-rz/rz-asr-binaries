@@ -8,14 +8,15 @@ certification on the following RZ platfoms:
 - RZ/G2UL
 - RZ/V2L
 ## Licenses 
+The licenses are in the path https://github.com/renesas-rz/rz-asr-binaries/tree/sr-v2.1/Licenses_1.00/  
 | Binary file |License folder|License files|
 |--|--|--|
-|bl2_bp-smarc<-platform><_pmic>.srec|trusted-firmware-a|generic_MIT, LICENSE, license.rst|
-|bl2_bp-smarc<-platform><_pmic>.bin|trusted-firmware-a|generic_MIT, LICENSE, license.rst|
-|fip-smarc<-platform><_pmic>.srec|u-boot|Exceptions,gpl-2.0.txt,README|
-|fip-smarc<-platform><_pmic>.bin|u-boot|Exceptions,gpl-2.0.txt,README|
-|capsule<-platform><_pmic>.bin|u-boot|Exceptions,gpl-2.0.txt,README|
-|Flash_Writer_SCIF<_PLATFORM>_SMARC<_PMIC>_DDR4_2GB_1PCS.mot|u-flash-writer|LICENSE.md|
+|bl2_bp-smarc<-platform><_pmic>.srec|trusted-firmware-a|https://github.com/renesas-rz/rz-asr-binaries/tree/sr-v2.1/Licenses_1.00/trusted-firmware-a|
+|bl2_bp-smarc<-platform><_pmic>.bin|trusted-firmware-a|https://github.com/renesas-rz/rz-asr-binaries/tree/sr-v2.1/Licenses_1.00/trusted-firmware-a|
+|fip-smarc<-platform><_pmic>.srec|u-boot|https://github.com/renesas-rz/rz-asr-binaries/tree/sr-v2.1/Licenses_1.00/u-boot|
+|fip-smarc<-platform><_pmic>.bin|u-boot|https://github.com/renesas-rz/rz-asr-binaries/tree/sr-v2.1/Licenses_1.00/u-boot|
+|capsule<-platform><_pmic>.bin|u-boot|https://github.com/renesas-rz/rz-asr-binaries/tree/sr-v2.1/Licenses_1.00/u-boot|
+|Flash_Writer_SCIF<_PLATFORM>_SMARC<_PMIC>_DDR4_2GB_1PCS.mot|u-flash-writer|https://github.com/renesas-rz/rz-asr-binaries/tree/sr-v2.1/Licenses_1.00/flash-writer|
 ## Source code
 | Source Code |Git repository|
 |--|--|
